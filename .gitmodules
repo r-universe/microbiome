@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "microbiome"]
+	path = microbiome
+	url = https://github.com/microbiome/microbiome
+	shallow = true
+	registered = true
