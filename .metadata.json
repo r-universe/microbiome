@@ -1,11 +1,5 @@
 [
   {
-    "package": "mia"
-  },
-  {
-    "package": "miaSim"
-  },
-  {
     "package": "microbiome"
   }
 ]
