@@ -13,3 +13,8 @@
 	url = https://github.com/microbiome/miasim
 	shallow = true
 	registered = true
+[submodule "microbiome"]
+	path = microbiome
+	url = https://github.com/microbiome/microbiome
+	shallow = true
+	registered = true
