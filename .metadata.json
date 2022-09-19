@@ -1,5 +1,8 @@
 [
   {
-    "package": "microbiome"
+    "package": "mia"
+  },
+  {
+    "package": "miaSim"
   }
 ]
